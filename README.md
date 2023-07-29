@@ -29,4 +29,4 @@
 
 <p>Digite o local desejado e pesquise para ter suas informações .</p>
 
-- <a href="https://busca-cep-three-zeta.vercel.app/" >Teste o projeto, aqui !</a>
+- <a href="https://busca-cep-three-zeta.vercel.app/" target="blank">Teste o projeto, aqui !</a>
