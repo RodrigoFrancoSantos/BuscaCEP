@@ -1,8 +1,7 @@
 # Buscador de CEP
 
 
-<div align="center"> <img src="public
-/BuscaCEP.png"
+<div align="center"> <img src="BuscaCEP (2).png"
 " width="100%" /></div>
 
 
